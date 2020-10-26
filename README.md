@@ -30,7 +30,7 @@ All Beta Versions have been removed due to rare use by testers and developers. I
 
 
 
-**Credits:**
-Hardway245 - Creator
-ms_crax - Beta Testing Team
-Osiris77 - Bug Master
+**Credits:***
+**Hardway245** - Creator
+**ms_crax** - Beta Testing Team
+**Osiris77** - Bug Master
