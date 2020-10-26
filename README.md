@@ -1,8 +1,7 @@
 # SWBF2_BotSys
 This application lets you add AI Players in Star Wars Battlefront II (2005). The bots will look like normal players and they are customizable.
 
-**UPDATE: BotSystem for SWBF2 is no longer in work and it has been deleted by GitHub. We will no longer provide support for any clients. You can still find the client installers
-around the internet but we do not recommend them since they cause many issues to the game and they are not verified.**
+# UPDATE: BotSystem for SWBF2 is no longer in work and it has been deleted in GitHub. We will no longer provide support for any clients. You can still find the client installers around the internet but we do not recommend them since they cause many issues to the game and they are not verified.
 
 
 **WARNING: You are allowed to edit and configure this application only for Private purposes. You are not allowed to upload an edited version of this application anywhere. If you think that you fixed some bugs and made some improvements to the original application, then contact me.**
